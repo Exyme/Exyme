@@ -9,7 +9,7 @@ COBOL Developer specializing in mainframe apps and DB2 integration.
 - COBOL, DB2/SQL, JCL
 - Mainframe development
 
-Connect on [[LinkedIn](https://www.linkedin.com/in/ikw/)] or email me at kaushalyawi@gmail.com
+Connect on [[LinkedIn](https://www.linkedin.com/in/ikw/)] or email me at Isurujobb@gmail.com
 
 <!--
 
